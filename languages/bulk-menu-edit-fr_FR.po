@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-06-19 07:59+0200\n"
+"PO-Revision-Date: 2021-06-19 07:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../assets\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: bulk-menu.js\n"
+
+#: bulk-menu.js:13 bulk-menu.js:98
+msgid "Check"
+msgstr "Cocher"
+
+#: bulk-menu.js:13
+msgid " all menu items"
+msgstr " tous les éléments"
+
+#: bulk-menu.js:14
+msgid "Collapse All"
+msgstr "Tout refermer"
+
+#: bulk-menu.js:15
+msgid "Expand All"
+msgstr "Tout développer"
+
+#: bulk-menu.js:25
+msgid "Remove selected items"
+msgstr "Supprimer les éléments sélectionnés"
+
+#: bulk-menu.js:39
+msgid "Check all menu items"
+msgstr "Cocher tous les éléments"
+
+#: bulk-menu.js:89
+msgid "Uncheck"
+msgstr "Décocher"
+
+#: bulk-menu.js:113
+msgid "Do you really want to remove all the menu items selected ?"
+msgstr "Voulez-vous vraiment supprimer l’ensemble des menus sélectionnés ?"
